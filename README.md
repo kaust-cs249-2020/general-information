@@ -11,7 +11,6 @@ in the morning and the other class in the evening (KAUST time), so
 that all students have the opportunity to participate at a reasonable
 time.
 
-## Join online
 This class will start as an online-only class held through Zoom. Any changes will be communicated here and on Mattermost.
 
 ## Online resources
@@ -30,3 +29,6 @@ purchase your own textbook and will not be reimbursed. If you decide
 to drop the class within the next 2 weeks, you can return the textbook
 for a full refund.
 
+## Wiki
+
+For any shared information, tips and tricks for the coding assignments, use the Wiki (https://github.com/kaust-cs249-2020/general-information/wiki) of this repository.
